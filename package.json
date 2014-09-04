@@ -1,7 +1,7 @@
 {
   "name": "camel-back-promise",
   "version": "0.0.0",
-  "description": "The staw that breaks the camel's back. A function which resolve a promise after getting called n times.",
+  "description": "The straw that breaks the camel's back. A function which resolve a promise after getting called n times.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,10 @@
   "keywords": [
     "promise"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonahss/camel-back-promise"
+  }
   "author": "jonahss@gmail.com",
   "license": "ISC",
   "dependencies": {
