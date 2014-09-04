@@ -1,6 +1,6 @@
 {
   "name": "camel-back-promise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The straw that breaks the camel's back. A function which resolve a promise after getting called n times.",
   "main": "index.js",
   "scripts": {
